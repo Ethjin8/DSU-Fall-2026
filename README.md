@@ -1,0 +1,1 @@
+Code for my answers to DSU's Fall 2026 application.
